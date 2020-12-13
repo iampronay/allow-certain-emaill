@@ -1,4 +1,4 @@
-=== Forget Spam Comment ===
+=== Allow Certain Email ===
 Contributors: itsmepronay
 Donate link: https://www.buymeacoffee.com/pronay
 Tags: registration, bot, anti spam, stop spam, security, gdpr, firewall
